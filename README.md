@@ -103,3 +103,5 @@ cd /content/iha
 !cp test.record  /content/drive/My*Drive/derin
 
 !python train.py --logtostderr --train_dir=training_dir/ --pipeline_config_path=faster_rcnn_inception_v2_coco.config
+
+https://colab.research.google.com/drive/1WcOqCoKV0BvrUnFSOxXz1glFaE3bUq4L
